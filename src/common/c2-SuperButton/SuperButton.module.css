@@ -1,0 +1,9 @@
+.default {
+  background: rgb(105, 228, 121);
+  margin-top: 10px;
+}
+
+.red {
+    background: red;
+    margin-top: 10px;
+}
